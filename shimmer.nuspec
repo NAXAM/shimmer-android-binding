@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Shimmer.Droid</id>
+        <version>0.1.0</version>
+        <description>Xamarin Binding Library - Shimmer for Android</description>
+        <authors>NAXAM CO.,LTD</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Shimmer for Android</title>
+        <releaseNotes>Shimmer Android SDK v0.1.0</releaseNotes>
+        <summary>Xamarin Binding Library - Facebook Shimmer for Android</summary>
+        <iconUrl>https://avatars3.githubusercontent.com/u/8550654</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/Shimmer-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, Shimmer</tags>
+        <dependencies>
+          
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Shimmer.Droid/bin/Release/Naxam.Shimmer.Droid.dll" target="lib/MonoAndroid10/Naxam.Shimmer.Droid.dll" />
+    </files>
+</package>
